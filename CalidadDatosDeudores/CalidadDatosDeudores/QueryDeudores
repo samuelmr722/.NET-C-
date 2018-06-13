@@ -1,0 +1,452 @@
+>QUERY_OBJECT_FILE
+TTAUF
+VS            ZDM_VALI_DEUDORES                     R
+*TAUF
+BS            ZDM_VALI_DEUDORES                     R
+TDBBS
+*DBBS
+NHEADSG
+VZDM_VALI_DEUDORES       J                    KNVV                           00001        X                                                                                                         GXXMUNOZSAM    20150506MUNOZSAM    20150506191015            017.00                                                             X  X
+TCLOGSG
+V20150506MUNOZSAM
+*CLOGSG
+TDBSA
+V1 01503
+*DBSA
+TDBOB
+*DBOB
+TDBOS
+*DBOS
+TDBIF
+VTEXT_IDENTIFIER               CL_TEXT_IDENTIFIER
+VTABLE_ACCESS_AUTHORITY        CL_QUERY_TAB_ACCESS_AUTHORITY
+VDDIC_ACCESS                   CL_QUERY_DDIC_ACCESS
+*DBIF
+TDBSF
+V1 KNVV                          KNVV-KUNNR                                                            015040150500000C01000      KNVV                          TEXT_KNVV_KUNNR                                                       00001
+V1 KNVV                          TEXT_KNVV_KUNNR                                                       015060150700000C03500F    X                                                                                                    00002
+V1 KNA1                          KNA1-LAND1                                                            015120151300000C00300      KNVV                          TEXT_KNA1_LAND1                                                       00003
+V1 KNVV                          TEXT_KNA1_LAND1                                                       015140151500000C05000F    X                                                                                                    00004
+V1 KNA1                          KNA1-NAME1                                                            015160151700000C03500                                                                                                          00005
+V1 KNA1                          KNA1-NAME2                                                            015180151900000C03500                                                                                                          00006
+V1 KNA1                          KNA1-ORT01                                                            015200152100000C03500                                                                                                          00007
+V1 KNA1                          KNA1-REGIO                                                            015220152300000C00300      KNVV                          TEXT_KNA1_REGIO                                                       00008
+V1 KNVV                          TEXT_KNA1_REGIO                                                       015240152500000C02000F    X                                                                                                    00009
+V1 KNA1                          KNA1-SORTL                                                            015260152700000C01000                                                                                                          00010
+V1 KNA1                          KNA1-STRAS                                                            015280152900000C03500                                                                                                          00011
+V1 KNA1                          KNA1-TELF1                                                            015300153100000C01600                                                                                                          00012
+V1 KNA1                          KNA1-ANRED                                                            015320153300000C01500                                                                                                          00013
+V1 KNA1                          KNA1-BAHNE                                                            015340153500000C02500                                                                                                          00014
+V1 KNA1                          KNA1-BAHNS                                                            015360153700000C02500                                                                                                          00015
+V1 KNA1                          KNA1-BRSCH                                                            015380153900000C00400      KNVV                          TEXT_KNA1_BRSCH                                                       00016
+V1 KNVV                          TEXT_KNA1_BRSCH                                                       015400154100000C02000F    X                                                                                                    00017
+V1 KNA1                          KNA1-ERDAT                                                            015460154700000D01000                                                                                                          00018
+V1 KNA1                          KNA1-ERNAM                                                            015480154900000C01200                                                                                                          00019
+V1 KNA1                          KNA1-KTOKD                                                            015500155100000C00400      KNVV                          TEXT_KNA1_KTOKD                                                       00020
+V1 KNVV                          TEXT_KNA1_KTOKD                                                       015520155300000C03000F    X                                                                                                    00021
+V1 KNA1                          KNA1-LOCCO                                                            015540155500000C01000                                                                                                          00022
+V1 KNA1                          KNA1-NAME3                                                            015560155700000C03500                                                                                                          00023
+V1 KNA1                          KNA1-NAME4                                                            015580155900000C03500                                                                                                          00024
+V1 KNA1                          KNA1-NIELS                                                            015600156100000C00200      KNVV                          TEXT_KNA1_NIELS                                                       00025
+V1 KNVV                          TEXT_KNA1_NIELS                                                       015620156300000C02000F    X                                                                                                    00026
+V1 KNA1                          KNA1-ORT02                                                            015640156500000C03500                                                                                                          00027
+V1 KNA1                          KNA1-KUKLA                                                            015660156700000C00200      KNVV                          TEXT_KNA1_KUKLA                                                       00028
+V1 KNVV                          TEXT_KNA1_KUKLA                                                       015680156900000C02000F    X                                                                                                    00029
+V1 KNA1                          KNA1-STCD1                                                            015700157100000C01600                                                                                                          00030
+V1 KNA1                          KNA1-TELF2                                                            015720157300000C01600                                                                                                          00031
+V1 KNA1                          KNA1-LZONE                                                            015740157500000C01000      KNVV                          TEXT_KNA1_LZONE                                                       00032
+V1 KNVV                          TEXT_KNA1_LZONE                                                       015760157700000C02000F    X                                                                                                    00033
+V1 KNA1                          KNA1-STKZN                                                            015780157900000C00100      KNVV                          TEXT_KNA1_STKZN                                                       00034
+V1 KNVV                          TEXT_KNA1_STKZN                                                       015800158100000C06000F    X                                                                                                    00035
+V1 KNA1                          KNA1-FITYP                                                            015820158300000C00200                                                                                                          00036
+V1 KNA1                          KNA1-STCDT                                                            015840158500000C00200      KNVV                          TEXT_KNA1_STCDT                                                       00037
+V1 KNVV                          TEXT_KNA1_STCDT                                                       015860158700000C03000F    X                                                                                                    00038
+V1 ADRC                          ADRC-STR_SUPPL1                                                       015880158900000C04000                                                                                                          00039
+V1 ADRC                          ADRC-STR_SUPPL2                                                       015900159100000C04000                                                                                                          00040
+V1 ADRC                          ADRC-STR_SUPPL3                                                       015920159300000C04000                                                                                                          00041
+V1 ADRC                          ADRC-LOCATION                                                         015940159500000C04000                                                                                                          00042
+V1 KNB1                          KNB1-BUKRS                                                            015960159700000C00400      KNVV                          TEXT_KNB1_BUKRS                                                       00043
+V1 KNVV                          TEXT_KNB1_BUKRS                                                       015980159900000C02500F    X                                                                                                    00044
+V1 KNB1                          KNB1-PERNR                                                            016000160100000N00800                                                                                                          00045
+V1 KNB1                          KNB1-ERDAT                                                            016020160300000D01000                                                                                                          00046
+V1 KNB1                          KNB1-ERNAM                                                            016040160500000C01200                                                                                                          00047
+V1 KNB1                          KNB1-AKONT                                                            016060160700000C01000                                                                                                          00048
+V1 KNB1                          KNB1-ZWELS                                                            016080160900000C01000                                                                                                          00049
+V1 KNB1                          KNB1-ZAHLS                                                            016100161100000C00100      KNVV                          TEXT_KNB1_ZAHLS                                                       00050
+V1 KNVV                          TEXT_KNB1_ZAHLS                                                       016120161300000C02000F    X                                                                                                    00051
+V1 KNB1                          KNB1-FDGRV                                                            016140161500000C01000      KNVV                          TEXT_KNB1_FDGRV                                                       00052
+V1 KNVV                          TEXT_KNB1_FDGRV                                                       016160161700000C03000F    X                                                                                                    00053
+V1 KNB1                          KNB1-XZVER                                                            016180161900000C00100      KNVV                          TEXT_KNB1_XZVER                                                       00054
+V1 KNVV                          TEXT_KNB1_XZVER                                                       016200162100000C06000F    X                                                                                                    00055
+V1 KNB1                          KNB1-ALTKN                                                            016220162300000C01000                                                                                                          00056
+V1 KNB1                          KNB1-CIIUCODE                                                         016240162500000N00400                                                                                                          00057
+V1 KNVV                          KNVV-VKORG                                                            016260162700000C00400      KNVV                          TEXT_KNVV_VKORG                                                       00058
+V1 KNVV                          TEXT_KNVV_VKORG                                                       016280162900000C02000F    X                                                                                                    00059
+V1 KNVV                          KNVV-VTWEG                                                            016300163100000C00200      KNVV                          TEXT_KNVV_VTWEG                                                       00060
+V1 KNVV                          TEXT_KNVV_VTWEG                                                       016320163300000C02000F    X                                                                                                    00061
+V1 KNVV                          KNVV-SPART                                                            016340163500000C00200      KNVV                          TEXT_KNVV_SPART                                                       00062
+V1 KNVV                          TEXT_KNVV_SPART                                                       016360163700000C02000F    X                                                                                                    00063
+V1 KNVV                          KNVV-ERNAM                                                            016380163900000C01200                                                                                                          00064
+V1 KNVV                          KNVV-ERDAT                                                            016400164100000D01000                                                                                                          00065
+V1 KNVV                          KNVV-LOEVM                                                            016420164300000C00100      KNVV                          TEXT_KNVV_LOEVM                                                       00066
+V1 KNVV                          TEXT_KNVV_LOEVM                                                       016440164500000C06000F    X                                                                                                    00067
+V1 KNVV                          KNVV-VERSG                                                            016460164700000C00100      KNVV                          TEXT_KNVV_VERSG                                                       00068
+V1 KNVV                          TEXT_KNVV_VERSG                                                       016480164900000C02000F    X                                                                                                    00069
+V1 KNVV                          KNVV-AUFSD                                                            016500165100000C00200      KNVV                          TEXT_KNVV_AUFSD                                                       00070
+V1 KNVV                          TEXT_KNVV_AUFSD                                                       016520165300000C02000F    X                                                                                                    00071
+V1 KNVV                          KNVV-KALKS                                                            016540165500000C00100      KNVV                          TEXT_KNVV_KALKS                                                       00072
+V1 KNVV                          TEXT_KNVV_KALKS                                                       016560165700000C02000F    X                                                                                                    00073
+V1 KNVV                          KNVV-KDGRP                                                            016580165900000C00200      KNVV                          TEXT_KNVV_KDGRP                                                       00074
+V1 KNVV                          TEXT_KNVV_KDGRP                                                       016600166100000C02000F    X                                                                                                    00075
+V1 KNVV                          KNVV-BZIRK                                                            016620166300000C00600      KNVV                          TEXT_KNVV_BZIRK                                                       00076
+V1 KNVV                          TEXT_KNVV_BZIRK                                                       016640166500000C02000F    X                                                                                                    00077
+V1 KNVV                          KNVV-KONDA                                                            016660166700000C00200      KNVV                          TEXT_KNVV_KONDA                                                       00078
+V1 KNVV                          TEXT_KNVV_KONDA                                                       016680166900000C02000F    X                                                                                                    00079
+V1 KNVV                          KNVV-PLTYP                                                            016700167100000C00200      KNVV                          TEXT_KNVV_PLTYP                                                       00080
+V1 KNVV                          TEXT_KNVV_PLTYP                                                       016720167300000C02000F    X                                                                                                    00081
+V1 KNVV                          KNVV-LIFSD                                                            016740167500000C00200      KNVV                          TEXT_KNVV_LIFSD                                                       00082
+V1 KNVV                          TEXT_KNVV_LIFSD                                                       016760167700000C02000F    X                                                                                                    00083
+V1 KNVV                          KNVV-LPRIO                                                            016780167900000N00200      KNVV                          TEXT_KNVV_LPRIO                                                       00084
+V1 KNVV                          TEXT_KNVV_LPRIO                                                       016800168100000C02000F    X                                                                                                    00085
+V1 KNVV                          KNVV-EIKTO                                                            016820168300000C01200                                                                                                          00086
+V1 KNVV                          KNVV-VSBED                                                            016840168500000C00200      KNVV                          TEXT_KNVV_VSBED                                                       00087
+V1 KNVV                          TEXT_KNVV_VSBED                                                       016860168700000C02000F    X                                                                                                    00088
+V1 KNVV                          KNVV-FAKSD                                                            016880168900000C00200      KNVV                          TEXT_KNVV_FAKSD                                                       00089
+V1 KNVV                          TEXT_KNVV_FAKSD                                                       016900169100000C02000F    X                                                                                                    00090
+V1 KNVV                          KNVV-MRNKZ                                                            016920169300000C00100      KNVV                          TEXT_KNVV_MRNKZ                                                       00091
+V1 KNVV                          TEXT_KNVV_MRNKZ                                                       016940169500000C06000F    X                                                                                                    00092
+V1 KNVV                          KNVV-WAERS                                                            016960169700000C00500 W    KNVV                          TEXT_KNVV_WAERS                                                       00093
+V1 KNVV                          TEXT_KNVV_WAERS                                                       016980169900000C04000F    X                                                                                                    00094
+V1 KNVV                          KNVV-KTGRD                                                            017000170100000C00200      KNVV                          TEXT_KNVV_KTGRD                                                       00095
+V1 KNVV                          TEXT_KNVV_KTGRD                                                       017020170300000C02000F    X                                                                                                    00096
+V1 KNVV                          KNVV-ZTERM                                                            017040170500000C00400                                                                                                          00097
+V1 KNVV                          KNVV-VWERK                                                            017060170700000C00400                                                                                                          00098
+V1 KNVV                          KNVV-VKGRP                                                            017080170900000C00300                                                                                                          00099
+V1 KNVV                          KNVV-VKBUR                                                            017100171100000C00400      KNVV                          TEXT_KNVV_VKBUR                                                       00100
+V1 KNVV                          TEXT_KNVV_VKBUR                                                       017120171300000C02000F    X                                                                                                    00101
+V1 KNVV                          KNVV-PRFRE                                                            017140171500000C00100      KNVV                          TEXT_KNVV_PRFRE                                                       00102
+V1 KNVV                          TEXT_KNVV_PRFRE                                                       017160171700000C06000F    X                                                                                                    00103
+V1 KNVP                          KNVP-PARVW                                                            017180171900000C00200      KNVV                          TEXT_KNVP_PARVW                                                       00104
+V1 KNVV                          TEXT_KNVP_PARVW                                                       017200172100000C02000F    X                                                                                                    00105
+V1 KNVP                          KNVP-PERNR                                                            017220172300000N00800                                                                                                          00106
+V1 KNVI                          KNVI-TAXKD                                                            017240172500000C00100      KNVV                          TEXT_KNVI_TAXKD                                                       00107
+V1 KNVV                          TEXT_KNVI_TAXKD                                                       017260172700000C02000F    X                                                                                                    00108
+*DBSF
+TDBSG
+VKNVV                                                        00002
+VKNA1                                                        00003
+VKNVI                                                        00004
+VKNB1                                                        00005
+VKNVP                                                        00006
+VADRC                                                        00007
+*DBSG
+TDBAN
+*DBAN
+TDBJT
+VKNVV                          I00000000000000000000000000000000        150           7         250         200
+VKNA1                          L00000000000000000000000000000000          6         373         126          51
+VKNVI                          L00000000000000000000000000000000        486         439          59          65
+VKNB1                          L00000000000000000000000000000000        235         497         132          92
+VKNVP                          L00000000000000000000000000000000         70         512          86         105
+VADRC                           00000000000000000000000000000000         10         760         108          70
+*DBJT
+TDBJC
+V  KNA1                                                                                                ADRC
+V  KNVV                                                                                                KNA1
+V  KNVV                                                                                                KNB1
+V  KNVV                                                                                                KNVI
+V  KNVV                                                                                                KNVP
+V1 KNA1                          KNA1-ADRNR                                                            ADRC                          ADRC-ADDRNUMBER
+V1 KNVV                          KNVV-KUNNR                                                            KNA1                          KNA1-KUNNR
+V2 KNVV                          KNVV-KUNNR                                                            KNB1                          KNB1-KUNNR
+V3 KNVV                          KNVV-KUNNR                                                            KNVI                          KNVI-KUNNR
+V4 KNVV                          KNVV-KUNNR                                                            KNVP                          KNVP-KUNNR
+V5 KNVV                          KNVV-SPART                                                            KNVP                          KNVP-SPART
+V6 KNVV                          KNVV-VKORG                                                            KNVP                          KNVP-VKORG
+V7 KNVV                          KNVV-VTWEG                                                            KNVP                          KNVP-VTWEG
+*DBJC
+TDBZT
+*DBZT
+TDBZC
+VKNVV                          TEXT_KNA1_BRSCH                                                       00015400154100000C02002000CHART016T-BRTXT                                                            XKNA1                          KNA1-BRSCH
+VKNVV                          TEXT_KNA1_KTOKD                                                       00015520155300000C03003000CHART077X-TXT30                                                            XKNA1                          KNA1-KTOKD
+VKNVV                          TEXT_KNA1_KUKLA                                                       00015680156900000C02002000CHARTKUKT-VTEXT                                                            XKNA1                          KNA1-KUKLA
+VKNVV                          TEXT_KNA1_LAND1                                                       00015140151500000C05005000CHART005T-LANDX50                                                          XKNA1                          KNA1-LAND1
+VKNVV                          TEXT_KNA1_LZONE                                                       00015760157700000C02002000CHARTZONT-VTEXT                                                            XKNA1                          KNA1-LZONE
+VKNVV                          TEXT_KNA1_NIELS                                                       00015620156300000C02002000CHARTNLST-BEZEI                                                            XKNA1                          KNA1-NIELS
+VKNVV                          TEXT_KNA1_REGIO                                                       00015240152500000C02002000CHART005U-BEZEI                                                            XKNA1                          KNA1-REGIO
+VKNVV                          TEXT_KNA1_STCDT                                                       00015860158700000C03003000CHARJ_1ATODCT-TEXT30                                                       XKNA1                          KNA1-STCDT
+VKNVV                          TEXT_KNA1_STKZN                                                       00015800158100000C06006000CHARDD07D-DDTEXT                                                           XKNA1                          KNA1-STKZN
+VKNVV                          TEXT_KNB1_BUKRS                                                       00015980159900000C02502500CHART001-BUTXT                                                             XKNB1                          KNB1-BUKRS
+VKNVV                          TEXT_KNB1_FDGRV                                                       00016160161700000C03003000CHART035T-TEXTL                                                            XKNB1                          KNB1-FDGRV
+VKNVV                          TEXT_KNB1_XZVER                                                       00016200162100000C06006000CHARDD07D-DDTEXT                                                           XKNB1                          KNB1-XZVER
+VKNVV                          TEXT_KNB1_ZAHLS                                                       00016120161300000C02002000CHART008T-TEXTL                                                            XKNB1                          KNB1-ZAHLS
+VKNVV                          TEXT_KNVI_TAXKD                                                       00017260172700000C02002000CHARTSKDT-VTEXT                                                            XKNVI                          KNVI-TAXKD
+VKNVV                          TEXT_KNVP_PARVW                                                       00017200172100000C02002000CHARTPART-VTEXT                                                            XKNVP                          KNVP-PARVW
+VKNVV                          TEXT_KNVV_AUFSD                                                       00016520165300000C02002000CHARTVAST-VTEXT                                                            XKNVV                          KNVV-AUFSD
+VKNVV                          TEXT_KNVV_BZIRK                                                       00016640166500000C02002000CHART171T-BZTXT                                                            XKNVV                          KNVV-BZIRK
+VKNVV                          TEXT_KNVV_FAKSD                                                       00016900169100000C02002000CHARTVFST-VTEXT                                                            XKNVV                          KNVV-FAKSD
+VKNVV                          TEXT_KNVV_KALKS                                                       00016560165700000C02002000CHARTVKDT-VTEXT                                                            XKNVV                          KNVV-KALKS
+VKNVV                          TEXT_KNVV_KDGRP                                                       00016600166100000C02002000CHART151T-KTEXT                                                            XKNVV                          KNVV-KDGRP
+VKNVV                          TEXT_KNVV_KONDA                                                       00016680166900000C02002000CHART188T-VTEXT                                                            XKNVV                          KNVV-KONDA
+VKNVV                          TEXT_KNVV_KTGRD                                                       00017020170300000C02002000CHARTVKTT-VTEXT                                                            XKNVV                          KNVV-KTGRD
+VKNVV                          TEXT_KNVV_KUNNR                                                       00015060150700000C03503500CHARKNA1-NAME1                                                             XKNVV                          KNVV-KUNNR
+VKNVV                          TEXT_KNVV_LIFSD                                                       00016760167700000C02002000CHARTVLST-VTEXT                                                            XKNVV                          KNVV-LIFSD
+VKNVV                          TEXT_KNVV_LOEVM                                                       00016440164500000C06006000CHARDD07D-DDTEXT                                                           XKNVV                          KNVV-LOEVM
+VKNVV                          TEXT_KNVV_LPRIO                                                       00016800168100000C02002000CHARTPRIT-BEZEI                                                            XKNVV                          KNVV-LPRIO
+VKNVV                          TEXT_KNVV_MRNKZ                                                       00016940169500000C06006000CHARDD07D-DDTEXT                                                           XKNVV                          KNVV-MRNKZ
+VKNVV                          TEXT_KNVV_PLTYP                                                       00016720167300000C02002000CHART189T-PTEXT                                                            XKNVV                          KNVV-PLTYP
+VKNVV                          TEXT_KNVV_PRFRE                                                       00017160171700000C06006000CHARDD07D-DDTEXT                                                           XKNVV                          KNVV-PRFRE
+VKNVV                          TEXT_KNVV_SPART                                                       00016360163700000C02002000CHARTSPAT-VTEXT                                                            XKNVV                          KNVV-SPART
+VKNVV                          TEXT_KNVV_VERSG                                                       00016480164900000C02002000CHARTVSDT-BEZEI20                                                          XKNVV                          KNVV-VERSG
+VKNVV                          TEXT_KNVV_VKBUR                                                       00017120171300000C02002000CHARTVKBT-BEZEI                                                            XKNVV                          KNVV-VKBUR
+VKNVV                          TEXT_KNVV_VKORG                                                       00016280162900000C02002000CHARTVKOT-VTEXT                                                            XKNVV                          KNVV-VKORG
+VKNVV                          TEXT_KNVV_VSBED                                                       00016860168700000C02002000CHARTVSBT-VTEXT                                                            XKNVV                          KNVV-VSBED
+VKNVV                          TEXT_KNVV_VTWEG                                                       00016320163300000C02002000CHARTVTWT-VTEXT                                                            XKNVV                          KNVV-VTWEG
+VKNVV                          TEXT_KNVV_WAERS                                                       00016980169900000C04004000CHARTCURT-LTEXT                                                            XKNVV                          KNVV-WAERS
+*DBZC
+TDBZL
+*DBZL
+TDBPA
+*DBPA
+TDBWR
+*DBWR
+TDBAR
+VKNVV                          TEXT_KNA1_LZONE                                                       FKNA1                          KNA1-LAND1                                                             X
+VKNVV                          TEXT_KNA1_REGIO                                                       FKNA1                          KNA1-LAND1                                                             X
+VKNVV                          TEXT_KNVI_TAXKD                                                       FKNVI                          KNVI-TATYP                                                             X
+*DBAR
+TDBFT
+*DBFT
+NMAXSG_TINDX
+V01727
+TSGTEXT
+VS000010000063ZDM_VALI_DEUDORES
+VS000020000040Maestro de clientes datos comerciales
+VS000030000040Maestro de clientes (parte general)
+VS000040000040Maestro de clientes indicadores de impuestos
+VS000050000040Maestro de clientes (sociedad)
+VS000060000040Maestro de clientes: Funciones de interlocutor
+VS000070000040Direcciones (gestión central de direcciones)
+VS015030000080Campos
+VS015040000060Número de deudor
+VS015050000055Cliente
+VS015060000060Texto:Número de deudor
+VS015070000060Número de deudor
+VS015120000060Clave de país
+VS015130000055Ps
+VS015140000060Texto:Clave de país
+VS015150000060Clave de país
+VS015160000060Nombre 1
+VS015170000055Nombre 1
+VS015180000060Nombre 2
+VS015190000055Nombre 2
+VS015200000060Población
+VS015210000055Población
+VS015220000060Región (Estado federal, "land", provincia, condado)
+VS015230000055Rg
+VS015240000060Texto:Región (Estado federal, "land", provincia, condado)
+VS015250000060Región (Estado federal, "land", provincia, condado)
+VS015260000060Campo de clasificación
+VS015270000055Conc.búsq.
+VS015280000060Calle y nº
+VS015290000055Calle
+VS0153000000601º número de teléfono
+VS015310000055Teléfono 1
+VS015320000060Tratamiento
+VS015330000055Tratamiento
+VS015340000060Latitud
+VS015350000055Latitud
+VS015360000060Longitud
+VS015370000055Longitud
+VS015380000060Clave de ramo industrial
+VS015390000055Ramo
+VS015400000060Texto:Clave de ramo industrial
+VS015410000060Clave de ramo industrial
+VS015460000060Fecha de creación del registro
+VS015470000055Fecha
+VS015480000060Nombre del responsable que ha añadido el objeto
+VS015490000055Autor
+VS015500000060Grupo de ctas.deudor
+VS015510000055Grupo
+VS015520000060Texto:Grupo de ctas.deudor
+VS015530000060Grupo de ctas.deudor
+VS015540000060Fecha de Expedición del Documento
+VS015550000055FED
+VS015560000060Nombre 3
+VS015570000055Nombre 3
+VS015580000060Nombre 4
+VS015590000055Nombre 4
+VS015600000060Estado del Cliente
+VS015610000055EC
+VS015620000060Texto:Estado del Cliente
+VS015630000060Estado del Cliente
+VS015640000060Distrito
+VS015650000055Distrito
+VS015660000060Estrato del Cliente
+VS015670000055ES
+VS015680000060Texto:Estrato del Cliente
+VS015690000060Estrato del Cliente
+VS015700000060Número de identificación fiscal 1
+VS015710000055Nº ident.fis.1
+VS015720000060Nº de teléfono 2
+VS015730000055Teléfono 2
+VS015740000060Zona de transporte donde se efectúan las entregas
+VS015750000055ZonaTransp
+VS015760000060Texto:Zona de transporte donde se efectúan las entregas
+VS015770000060Zona de transporte donde se efectúan las entregas
+VS015780000060Persona física
+VS015790000055Pers.fís.
+VS015800000060Texto:Persona física
+VS015810000060Persona física
+VS015820000060Clase de impuesto
+VS015830000055Cl.impto.
+VS015840000060Tipo de número de identificación fiscal
+VS015850000055Tipo NIF
+VS015860000060Texto:Tipo de número de identificación fiscal
+VS015870000060Tipo de número de identificación fiscal
+VS015880000060Calle 2
+VS015890000055Calle 2
+VS015900000060Calle 3
+VS015910000055Calle 3
+VS015920000060Calle 4
+VS015930000055Calle 4
+VS015940000060Calle 5
+VS015950000055Calle 5
+VS015960000060Sociedad
+VS015970000055Soc.
+VS015980000060Texto:Sociedad
+VS015990000060Sociedad
+VS016000000060Número de personal
+VS016010000055Nº pers.
+VS016020000060Fecha de creación del registro
+VS016030000055Fecha
+VS016040000060Nombre del responsable que ha añadido el objeto
+VS016050000055Autor
+VS016060000060Cuenta asociada en la contabilidad principal
+VS016070000055Cta.asoc.
+VS016080000060Lista de las vías de pago a tener en cuenta
+VS016090000055Vías pago
+VS016100000060Clave de bloqueo para el pago
+VS016110000055In.bloq.
+VS016120000060Texto:Clave de bloqueo para el pago
+VS016130000060Clave de bloqueo para el pago
+VS016140000060Grupo de tesorería
+VS016150000055Gr.tes.
+VS016160000060Texto:Grupo de tesorería
+VS016170000060Grupo de tesorería
+VS016180000060Indicador: ¿Registrar historial de pagos?
+VS016190000055Hist.pago
+VS016200000060Texto:Indicador: ¿Registrar historial de pagos?
+VS016210000060Indicador: ¿Registrar historial de pagos?
+VS016220000060Fecha de Nacimiento del Deudor
+VS016230000055FCN
+VS016240000060Main economic activity
+VS016250000055CIIU code
+VS016260000060Organización de ventas
+VS016270000055OrgVt
+VS016280000060Texto:Organización de ventas
+VS016290000060Organización de ventas
+VS016300000060Canal de distribución
+VS016310000055CDis
+VS016320000060Texto:Canal de distribución
+VS016330000060Canal de distribución
+VS016340000060Sector
+VS016350000055Se
+VS016360000060Texto:Sector
+VS016370000060Sector
+VS016380000060Nombre del responsable que ha añadido el objeto
+VS016390000055Creado por
+VS016400000060Fecha de creación del registro
+VS016410000055Creado el
+VS016420000060Petición de borrado para cliente (a nivel comercial)
+VS016430000055PBor
+VS016440000060Texto:Petición de borrado para cliente (a nivel comercial)
+VS016450000060Petición de borrado para cliente (a nivel comercial)
+VS016460000060Grupo de estadísticas cliente
+VS016470000055EC
+VS016480000060Texto:Grupo de estadísticas cliente
+VS016490000060Grupo de estadísticas cliente
+VS016500000060Bloqueo de pedido para cliente (área de ventas)
+VS016510000055BqPed
+VS016520000060Texto:Bloqueo de pedido para cliente (área de ventas)
+VS016530000060Bloqueo de pedido para cliente (área de ventas)
+VS016540000060Esquema de cliente (para determinar el esquema de cálculo)
+VS016550000055EsqC
+VS016560000060Texto:Esquema de cliente (para determinar el esquema de cálc
+VS016570000060Esquema de cliente (para determinar el esquema de cálculo)
+VS016580000060Mail PLan
+VS016590000055MP
+VS016600000060Texto:Mail PLan
+VS016610000060Mail PLan
+VS016620000060Zona de ventas
+VS016630000055ZV
+VS016640000060Texto:Zona de ventas
+VS016650000060Zona de ventas
+VS016660000060Grupo de precios - Cliente
+VS016670000055GP
+VS016680000060Texto:Grupo de precios - Cliente
+VS016690000060Grupo de precios - Cliente
+VS016700000060Tipo de lista de precios
+VS016710000055LP
+VS016720000060Texto:Tipo de lista de precios
+VS016730000060Tipo de lista de precios
+VS016740000060Bloqueo de entrega para cliente (nivel comercial)
+VS016750000055BqEnt
+VS016760000060Texto:Bloqueo de entrega para cliente (nivel comercial)
+VS016770000060Bloqueo de entrega para cliente (nivel comercial)
+VS016780000060Prioridad de entrega
+VS016790000055PrioE
+VS016800000060Texto:Prioridad de entrega
+VS016810000060Prioridad de entrega
+VS016820000060Última Campaña
+VS016830000055UC
+VS016840000060Condición de expedición
+VS016850000055CE
+VS016860000060Texto:Condición de expedición
+VS016870000060Condición de expedición
+VS016880000060Bloqueo de factura para cliente (nivel comercial)
+VS016890000055BlqFa
+VS016900000060Texto:Bloqueo de factura para cliente (nivel comercial)
+VS016910000060Bloqueo de factura para cliente (nivel comercial)
+VS016920000060Tratamiento manual posterior de la factura
+VS016930000055TPF
+VS016940000060Texto:Tratamiento manual posterior de la factura
+VS016950000060Tratamiento manual posterior de la factura
+VS016960000060Moneda
+VS016970000055Mon.
+VS016980000060Texto:Moneda
+VS016990000060Moneda
+VS017000000060Grupo de imputación para cliente
+VS017010000055GIm
+VS017020000060Texto:Grupo de imputación para cliente
+VS017030000060Grupo de imputación para cliente
+VS017040000060Clave de condiciones de pago
+VS017050000055CPag
+VS017060000060Centro suministrador (propio o externo)
+VS017070000055Ce.
+VS017080000060Grupo de vendedores
+VS017090000055GVen
+VS017100000060Oficina de ventas
+VS017110000055OfVta
+VS017120000060Texto:Oficina de ventas
+VS017130000060Oficina de ventas
+VS017140000060Indicador relevante para determinación de precios
+VS017150000055Dpr
+VS017160000060Texto:Indicador relevante para determinación de precios
+VS017170000060Indicador relevante para determinación de precios
+VS017180000060Función de interlocutor
+VS017190000055Func.
+VS017200000060Texto:Función de interlocutor
+VS017210000060Función de interlocutor
+VS017220000060Número de personal
+VS017230000055Nº pers.
+VS017240000060Clasificación fiscal para el deudor
+VS017250000055ClfFi
+VS017260000060Texto:Clasificación fiscal para el deudor
+VS017270000060Clasificación fiscal para el deudor
+*SGTEXT
+TDBDP
+*DBDP
+ES            ZDM_VALI_DEUDORES                     R
+<QUERY_OBJECT_FILE

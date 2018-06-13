@@ -1,0 +1,16 @@
+C:\Users\munozsamu\Desktop\Deudores\CalidadDatosDeudores\CalidadDatosDeudores\bin\Debug\CalidadDatosDeudores.exe
+C:\Users\munozsamu\Desktop\Deudores\CalidadDatosDeudores\CalidadDatosDeudores\bin\Debug\CalidadDatosDeudores.pdb
+C:\Users\munozsamu\Desktop\Deudores\CalidadDatosDeudores\CalidadDatosDeudores\bin\Debug\LibConexionParametro.dll
+C:\Users\munozsamu\Desktop\Deudores\CalidadDatosDeudores\CalidadDatosDeudores\obj\x86\Debug\CalidadDatosDeudores.CalidadDatosDeudores.resources
+C:\Users\munozsamu\Desktop\Deudores\CalidadDatosDeudores\CalidadDatosDeudores\obj\x86\Debug\CalidadDatosDeudores.Properties.Resources.resources
+C:\Users\munozsamu\Desktop\Deudores\CalidadDatosDeudores\CalidadDatosDeudores\obj\x86\Debug\CalidadDatosDeudores.csproj.GenerateResource.Cache
+C:\Users\munozsamu\Desktop\Deudores\CalidadDatosDeudores\CalidadDatosDeudores\obj\x86\Debug\CalidadDatosDeudores.exe
+C:\Users\munozsamu\Desktop\Deudores\CalidadDatosDeudores\CalidadDatosDeudores\obj\x86\Debug\CalidadDatosDeudores.pdb
+C:\Users\munozsamu\Desktop\CalidadDatosDeudores\CalidadDatosDeudores\CalidadDatosDeudores\bin\Debug\CalidadDatosDeudores.exe
+C:\Users\munozsamu\Desktop\CalidadDatosDeudores\CalidadDatosDeudores\CalidadDatosDeudores\bin\Debug\CalidadDatosDeudores.pdb
+C:\Users\munozsamu\Desktop\CalidadDatosDeudores\CalidadDatosDeudores\CalidadDatosDeudores\obj\x86\Debug\CalidadDatosDeudores.csprojResolveAssemblyReference.cache
+C:\Users\munozsamu\Desktop\CalidadDatosDeudores\CalidadDatosDeudores\CalidadDatosDeudores\obj\x86\Debug\CalidadDatosDeudores.CalidadDatosDeudores.resources
+C:\Users\munozsamu\Desktop\CalidadDatosDeudores\CalidadDatosDeudores\CalidadDatosDeudores\obj\x86\Debug\CalidadDatosDeudores.Properties.Resources.resources
+C:\Users\munozsamu\Desktop\CalidadDatosDeudores\CalidadDatosDeudores\CalidadDatosDeudores\obj\x86\Debug\CalidadDatosDeudores.csproj.GenerateResource.Cache
+C:\Users\munozsamu\Desktop\CalidadDatosDeudores\CalidadDatosDeudores\CalidadDatosDeudores\obj\x86\Debug\CalidadDatosDeudores.exe
+C:\Users\munozsamu\Desktop\CalidadDatosDeudores\CalidadDatosDeudores\CalidadDatosDeudores\obj\x86\Debug\CalidadDatosDeudores.pdb
