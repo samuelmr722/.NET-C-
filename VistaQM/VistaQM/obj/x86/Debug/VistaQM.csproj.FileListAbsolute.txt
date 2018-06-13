@@ -1,0 +1,14 @@
+C:\Users\munozsamu\Desktop\VistaQM\VistaQM\VistaQM\bin\Debug\VistaQM.exe
+C:\Users\munozsamu\Desktop\VistaQM\VistaQM\VistaQM\bin\Debug\VistaQM.pdb
+C:\Users\munozsamu\Desktop\VistaQM\VistaQM\VistaQM\obj\x86\Debug\VistaQM.frmPlanes.resources
+C:\Users\munozsamu\Desktop\VistaQM\VistaQM\VistaQM\obj\x86\Debug\VistaQM.Properties.Resources.resources
+C:\Users\munozsamu\Desktop\VistaQM\VistaQM\VistaQM\obj\x86\Debug\VistaQM.csproj.GenerateResource.Cache
+C:\Users\munozsamu\Desktop\VistaQM\VistaQM\VistaQM\obj\x86\Debug\VistaQM.exe
+C:\Users\munozsamu\Desktop\VistaQM\VistaQM\VistaQM\obj\x86\Debug\VistaQM.pdb
+C:\Users\munozsamu\Desktop\VistaQM\VistaQM\VistaQM\VistaQM\bin\Debug\VistaQM.exe
+C:\Users\munozsamu\Desktop\VistaQM\VistaQM\VistaQM\VistaQM\bin\Debug\VistaQM.pdb
+C:\Users\munozsamu\Desktop\VistaQM\VistaQM\VistaQM\VistaQM\obj\x86\Debug\VistaQM.frmPlanes.resources
+C:\Users\munozsamu\Desktop\VistaQM\VistaQM\VistaQM\VistaQM\obj\x86\Debug\VistaQM.Properties.Resources.resources
+C:\Users\munozsamu\Desktop\VistaQM\VistaQM\VistaQM\VistaQM\obj\x86\Debug\VistaQM.csproj.GenerateResource.Cache
+C:\Users\munozsamu\Desktop\VistaQM\VistaQM\VistaQM\VistaQM\obj\x86\Debug\VistaQM.exe
+C:\Users\munozsamu\Desktop\VistaQM\VistaQM\VistaQM\VistaQM\obj\x86\Debug\VistaQM.pdb
