@@ -1,0 +1,24 @@
+C:\Users\munozsamu\Documents\Visual Studio 2008\Projects\Buscar Factura\Buscar Factura\bin\Debug\Buscar Factura.exe
+C:\Users\munozsamu\Documents\Visual Studio 2008\Projects\Buscar Factura\Buscar Factura\bin\Debug\Buscar Factura.pdb
+C:\Users\munozsamu\Documents\Visual Studio 2008\Projects\Buscar Factura\Buscar Factura\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\munozsamu\Documents\Visual Studio 2008\Projects\Buscar Factura\Buscar Factura\obj\Debug\Buscar_Factura.Bucar_Factura.resources
+C:\Users\munozsamu\Documents\Visual Studio 2008\Projects\Buscar Factura\Buscar Factura\obj\Debug\Buscar_Factura.Properties.Resources.resources
+C:\Users\munozsamu\Documents\Visual Studio 2008\Projects\Buscar Factura\Buscar Factura\obj\Debug\Buscar Factura.csproj.GenerateResource.Cache
+C:\Users\munozsamu\Documents\Visual Studio 2008\Projects\Buscar Factura\Buscar Factura\obj\Debug\Buscar Factura.exe
+C:\Users\munozsamu\Documents\Visual Studio 2008\Projects\Buscar Factura\Buscar Factura\obj\Debug\Buscar Factura.pdb
+D:\Codigo Fuente\Buscar Factura\Buscar Factura\bin\Debug\Buscar Factura.exe
+D:\Codigo Fuente\Buscar Factura\Buscar Factura\bin\Debug\Buscar Factura.pdb
+D:\Codigo Fuente\Buscar Factura\Buscar Factura\obj\Debug\ResolveAssemblyReference.cache
+D:\Codigo Fuente\Buscar Factura\Buscar Factura\obj\Debug\Buscar_Factura.Bucar_Factura.resources
+D:\Codigo Fuente\Buscar Factura\Buscar Factura\obj\Debug\Buscar_Factura.Properties.Resources.resources
+D:\Codigo Fuente\Buscar Factura\Buscar Factura\obj\Debug\Buscar Factura.csproj.GenerateResource.Cache
+D:\Codigo Fuente\Buscar Factura\Buscar Factura\obj\Debug\Buscar Factura.exe
+D:\Codigo Fuente\Buscar Factura\Buscar Factura\obj\Debug\Buscar Factura.pdb
+D:\Codigo Fuente\BuscarFactura\Buscar Factura\bin\Debug\Buscar Factura.exe
+D:\Codigo Fuente\BuscarFactura\Buscar Factura\bin\Debug\Buscar Factura.pdb
+D:\Codigo Fuente\BuscarFactura\Buscar Factura\obj\Debug\ResolveAssemblyReference.cache
+D:\Codigo Fuente\BuscarFactura\Buscar Factura\obj\Debug\Buscar_Factura.Bucar_Factura.resources
+D:\Codigo Fuente\BuscarFactura\Buscar Factura\obj\Debug\Buscar_Factura.Properties.Resources.resources
+D:\Codigo Fuente\BuscarFactura\Buscar Factura\obj\Debug\Buscar Factura.csproj.GenerateResource.Cache
+D:\Codigo Fuente\BuscarFactura\Buscar Factura\obj\Debug\Buscar Factura.exe
+D:\Codigo Fuente\BuscarFactura\Buscar Factura\obj\Debug\Buscar Factura.pdb
