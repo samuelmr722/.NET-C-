@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File Finder", "File Finder\File Finder.csproj", "{204ED595-279E-4CC5-BAAF-550B77EA1B39}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "File Finder Setup", "File Finder Setup\File Finder Setup.vdproj", "{7AB66912-5A4D-4837-ADDC-5B49E24ACFCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{204ED595-279E-4CC5-BAAF-550B77EA1B39}.Debug|x86.ActiveCfg = Debug|x86
+		{204ED595-279E-4CC5-BAAF-550B77EA1B39}.Debug|x86.Build.0 = Debug|x86
+		{204ED595-279E-4CC5-BAAF-550B77EA1B39}.Release|x86.ActiveCfg = Release|x86
+		{204ED595-279E-4CC5-BAAF-550B77EA1B39}.Release|x86.Build.0 = Release|x86
+		{7AB66912-5A4D-4837-ADDC-5B49E24ACFCB}.Debug|x86.ActiveCfg = Debug
+		{7AB66912-5A4D-4837-ADDC-5B49E24ACFCB}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

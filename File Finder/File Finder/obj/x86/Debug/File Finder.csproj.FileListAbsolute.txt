@@ -1,0 +1,20 @@
+D:\Codigo Fuente\Buscador de archivos\File Finder\File Finder\bin\Debug\File Finder.exe
+D:\Codigo Fuente\Buscador de archivos\File Finder\File Finder\bin\Debug\File Finder.pdb
+D:\Codigo Fuente\Buscador de archivos\File Finder\File Finder\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Codigo Fuente\Buscador de archivos\File Finder\File Finder\obj\x86\Debug\File_Finder.FileFinder.resources
+D:\Codigo Fuente\Buscador de archivos\File Finder\File Finder\obj\x86\Debug\File_Finder.MaestroRutas.resources
+D:\Codigo Fuente\Buscador de archivos\File Finder\File Finder\obj\x86\Debug\File_Finder.Properties.Resources.resources
+D:\Codigo Fuente\Buscador de archivos\File Finder\File Finder\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Codigo Fuente\Buscador de archivos\File Finder\File Finder\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Codigo Fuente\Buscador de archivos\File Finder\File Finder\obj\x86\Debug\File Finder.exe
+D:\Codigo Fuente\Buscador de archivos\File Finder\File Finder\obj\x86\Debug\File Finder.pdb
+C:\Users\munozsamu.INTERNO\Desktop\Buscador de archivos\Buscador de archivos\File Finder\File Finder\obj\x86\Debug\File Finder.exe
+C:\Users\munozsamu.INTERNO\Desktop\Buscador de archivos\Buscador de archivos\File Finder\File Finder\obj\x86\Debug\File Finder.pdb
+C:\Users\munozsamu.INTERNO\Desktop\Buscador de archivos\Buscador de archivos\File Finder\File Finder\bin\Debug\File Finder.exe
+C:\Users\munozsamu.INTERNO\Desktop\Buscador de archivos\Buscador de archivos\File Finder\File Finder\bin\Debug\File Finder.pdb
+C:\Users\munozsamu.INTERNO\Desktop\Buscador de archivos\Buscador de archivos\File Finder\File Finder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\munozsamu.INTERNO\Desktop\Buscador de archivos\Buscador de archivos\File Finder\File Finder\obj\x86\Debug\File_Finder.FileFinder.resources
+C:\Users\munozsamu.INTERNO\Desktop\Buscador de archivos\Buscador de archivos\File Finder\File Finder\obj\x86\Debug\File_Finder.MaestroRutas.resources
+C:\Users\munozsamu.INTERNO\Desktop\Buscador de archivos\Buscador de archivos\File Finder\File Finder\obj\x86\Debug\File_Finder.Properties.Resources.resources
+C:\Users\munozsamu.INTERNO\Desktop\Buscador de archivos\Buscador de archivos\File Finder\File Finder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\munozsamu.INTERNO\Desktop\Buscador de archivos\Buscador de archivos\File Finder\File Finder\obj\x86\Debug\GenerateResource.write.1.tlog
