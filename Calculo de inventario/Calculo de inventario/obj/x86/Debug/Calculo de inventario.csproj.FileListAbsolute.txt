@@ -1,0 +1,16 @@
+D:\Codigo Fuente\Calculo de inventario\Calculo de inventario\Calculo de inventario\bin\Debug\Calculo de inventario.exe
+D:\Codigo Fuente\Calculo de inventario\Calculo de inventario\Calculo de inventario\bin\Debug\Calculo de inventario.pdb
+D:\Codigo Fuente\Calculo de inventario\Calculo de inventario\Calculo de inventario\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Codigo Fuente\Calculo de inventario\Calculo de inventario\Calculo de inventario\obj\x86\Debug\Calculo_de_inventario.FrmSentencia.resources
+D:\Codigo Fuente\Calculo de inventario\Calculo de inventario\Calculo de inventario\obj\x86\Debug\Calculo_de_inventario.Properties.Resources.resources
+D:\Codigo Fuente\Calculo de inventario\Calculo de inventario\Calculo de inventario\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Codigo Fuente\Calculo de inventario\Calculo de inventario\Calculo de inventario\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Codigo Fuente\Calculo de inventario\Calculo de inventario\Calculo de inventario\obj\x86\Debug\Calculo de inventario.exe
+D:\Codigo Fuente\Calculo de inventario\Calculo de inventario\Calculo de inventario\obj\x86\Debug\Calculo de inventario.pdb
+C:\Users\munozsamu\Desktop\Calculo de inventario\Calculo de inventario\Calculo de inventario\obj\x86\Debug\Calculo de inventario.exe
+C:\Users\munozsamu\Desktop\Calculo de inventario\Calculo de inventario\Calculo de inventario\obj\x86\Debug\Calculo de inventario.pdb
+C:\Users\munozsamu\Desktop\Calculo de inventario\Calculo de inventario\Calculo de inventario\bin\Debug\Calculo de inventario.exe
+C:\Users\munozsamu\Desktop\Calculo de inventario\Calculo de inventario\Calculo de inventario\bin\Debug\Calculo de inventario.pdb
+C:\Users\munozsamu\Desktop\Calculo de inventario\Calculo de inventario\Calculo de inventario\obj\x86\Debug\Calculo_de_inventario.FrmSentencia.resources
+C:\Users\munozsamu\Desktop\Calculo de inventario\Calculo de inventario\Calculo de inventario\obj\x86\Debug\Calculo_de_inventario.Properties.Resources.resources
+C:\Users\munozsamu\Desktop\Calculo de inventario\Calculo de inventario\Calculo de inventario\obj\x86\Debug\Calculo de inventario.csproj.GenerateResource.Cache
